@@ -3,10 +3,9 @@ Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ab asperiores consequu
 const lo = 2
 
 
-// 🎯 Objective: never
 
 const yo = 1
-// 🧀 Here
+let me = 'in'
 commodi quasi molestias fuga, distinctio ducimus eius. Magnam, quod fugiat, enim impedit explicabo quos sint cupiditate porro sequi odit soluta cumque debitis suscipit repellat architecto quibusdam sed illum nostrum. Ducimus consequuntur unde quia omnis beatae, commodi aliquam?
 
-// 🧀 Here
+let go = 'out'
